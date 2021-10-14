@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @najmehtaleb
-- 👀 I’m interested in AI, ML, DL, Robotics, Autonomous Vehicles
-- 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Deep Learning Projects
+- 👀 I’m interested in ML, DL, Robotics, Autonomous Vehicles
 - 📫 How to reach me: najmehtaleb@gmail.com
 
 <!---
