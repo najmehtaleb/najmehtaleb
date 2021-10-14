@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @najmehtaleb
+- 👋 Hi, I’m Najmeh Taleb
 - 👀 I’m interested in ML, DL, Robotics, Autonomous Vehicles
 - 📫 How to reach me: najmehtaleb@gmail.com
 
