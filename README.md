@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Najmeh Taleb
-- 👀 I’m interested in ML, DL, Robotics, Autonomous Vehicles
+- 👀 I’m ML/DL Researcher
 - 📫 How to reach me: najmehtaleb@gmail.com
 
 <!---
